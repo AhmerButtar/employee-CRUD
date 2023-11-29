@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "firstname": "Dua",
+      "lastname": "Ali",
+      "birthdate": "2000-10-13",
+      "gender": "f",
+      "education": "Bachlors",
+      "company": "NUST",
+      "jobExperiance": 2,
+      "salary": 65000,
+      "profile": "image6.jpg",
+      "id": 1
+    },
+    {
+      "firstname": "M Ahmer",
+      "lastname": "Nadeem",
+      "birthdate": "2000-10-14",
+      "gender": "m",
+      "education": "Bachlors",
+      "company": "NUST",
+      "jobExperiance": 3,
+      "salary": 80000,
+      "profile": "image5.jpg",
+      "id": 2
+    },
+    {
+      "firstname": "Iqra",
+      "lastname": "Baloch",
+      "birthdate": "2001-07-11",
+      "gender": "f",
+      "education": "Bachlors",
+      "company": "NUST",
+      "jobExperiance": 1,
+      "salary": 60000,
+      "profile": "image3.jpg",
+      "id": 3
+    },
+    {
+      "firstname": "Ali ",
+      "lastname": "Sikandar",
+      "birthdate": "2023-11-08",
+      "gender": "m",
+      "education": "Bachlors",
+      "company": "National University of Sciences and Technology",
+      "jobExperiance": 1,
+      "salary": 50000,
+      "profile": "image1.jpg",
+      "id": 4
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
